@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm xneuh</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
-<img align="right" alt="CodingGif" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<img align="right" alt="CodingGif" width="400" src="https://imgur.com/7kP3AiC.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/neuh#2321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="neuh#2321" height="30" width="40" /></a>
