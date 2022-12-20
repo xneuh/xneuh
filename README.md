@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm xneuh</h1>
-<h3 align="center">A passionate backend developer from Poland</h3>
+<h3 align="center">A passionate backend developer from Pol<font style="color:red">land</font></h3>
 <img align="right" alt="CodingGif" width="400" src="https://imgur.com/VIfsQwK.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
