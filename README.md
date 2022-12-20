@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm xneuh</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
-<img align="right" alt="CodingGif" width="400" src="https://imgur.com/VIfsQwK.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xneuh&label=Profile%20views&color=0e75b6&style=flat" alt="xneuh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xneuh" alt="xneuh" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xneuh&label=Profile%20views&color=0e75b6&style=flat" alt="xneuh" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
