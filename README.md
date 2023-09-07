@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm xneuh</h1>
-<h3 align="center">A backend developer from Poland</h3>
+<h3 align="center">Fullstack Developer</h3>
+<h3>2023 - ExileRP  2022 - OnlyRP, AdrenalinaRP, Chemical.GG, Waves RolePlay  2021 - WyspaRP, SpaceRP</h3>
 <img align="right" alt="CodingGif" width="400" src="https://imgur.com/VIfsQwK.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xneuh&label=Profile%20views&color=0e75b6&style=flat" alt="xneuh" /> </p>
 
